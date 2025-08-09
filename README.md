@@ -21,3 +21,5 @@ This project involves designing and implementing a Responsive Landing Page with 
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Tharunpatnayak/SCT_WD_1.git
+
+2. Navigate to the project folder and open index.html in your browser.
